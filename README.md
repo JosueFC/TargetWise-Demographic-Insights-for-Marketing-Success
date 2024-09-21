@@ -12,7 +12,7 @@ Skewed distribution.
 
 **Categorical data**
 ![image](https://github.com/user-attachments/assets/44fe5c01-6df4-43b4-be7c-2cd7b3afa0ba)
-Job distribution.
+Job distribution. Students and retirees are a small set of the sample. 
 ![image](https://github.com/user-attachments/assets/918586b9-559f-4af4-91ec-31e04eaed0da)
 Education distribution.
 
