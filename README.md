@@ -24,4 +24,4 @@ Education distribution.
 ![image](https://github.com/user-attachments/assets/c6cac06b-f20f-4a4c-bb21-07986612d66b)
 
 **Conclusions:**
-The groups with the best response are students and retirees. The best  contact method is the telephone, and Monday is the weakest day for getting positive responses. 
+The groups with the best response are students and retirees, so future campaigns should be focused on them. The best  contact method is the telephone, and Monday is the weakest day for getting positive responses. 
